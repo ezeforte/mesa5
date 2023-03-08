@@ -9,7 +9,7 @@ const Card = (props) => {
   return (
     <>
       <h1>Esto es un componente</h1>
-      <h2>{props.algo}</h2>
+      <h2>{props.algo}</h2> 
       
 
     </>
